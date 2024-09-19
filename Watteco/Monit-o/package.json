@@ -1,0 +1,12 @@
+{
+  "name": "monit-o",
+  "version": "1.0.0",
+  "description": "This module is designed to decode payloads sent over a LoRaWAN network by a Monit'o V4 IoT device to a sensor dashboard. It handles both standard and batch payloads, extracting parameters and their values to provide meaningful data to the user.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
